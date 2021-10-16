@@ -1,0 +1,19 @@
+header, footer, section{
+    padding: 25px 0;
+}
+footer{
+    background-color: black;
+}
+header{
+    background-color: black;
+}
+.alex_img{
+    border-radius: 50%;
+    width: 100px
+}
+.but_img{
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 3px 3px;
+    margin: 5px 0 5px 0;
+}
