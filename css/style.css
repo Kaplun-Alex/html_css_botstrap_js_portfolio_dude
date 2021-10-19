@@ -1,5 +1,14 @@
+@font-face {
+    font-family: "myVikingFont";
+    src: url("/font/Chomsky.otf");
+    font-weight: bold;
+}
+
 header, footer, section{
     padding: 25px 0;
+}
+.row{
+    padding: auto;
 }
 footer{
     background-color: black;
@@ -11,9 +20,15 @@ header{
     border-radius: 50%;
     width: 100px
 }
-.but_img{
+.vikingfont{
+    font-family: myVikingFont;
+}
+.mybtn{
     border: 3px solid black;
     border-radius: 10px;
     padding: 3px 3px;
     margin: 5px 0 5px 0;
+    min-width: 90px;
+    max-width: 120px;
+    text-size-adjust: auto;
 }
