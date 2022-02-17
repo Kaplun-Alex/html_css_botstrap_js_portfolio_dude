@@ -40,19 +40,17 @@ const messages = {
           Full cycle of implementation of technical security systems.\
           Service Center Management. Development of security systems<br><br>',
   skillsMessage: '<h2>Lang/Libraries/Modules/Frameworks:</h2>\
-          Python, Django, REST, FastApi, Asincio, Celery Threading, Multiprocessing, Beautiful Soup, JS(basic),\
-          REACT(basic), CSS(flaxbox, grid), Bootstrap5, MySql, SQLite, Postgress, mongoDB(cloud), Redis,\
-          OS, SYS, Argparse, Tkinter, PyQt, Socket, Decimal, Random, Struct, Array,\
-          Doctest, Pytest, Unittest,  PyUSB, HIDUSB,\
-          Embedd Python Ex, Keyboard, mako, Jinja2, Logging, Numpy, Matplotlib,\
-          <br><br>\
+          Python, JS, CSS(flaxbox, grid), Bootstrap5, HTML, Django, MySql, SQLite, mongoDB(cloud), Redis, OS, SYS, Argparse, Tkinter, PyQt, Socket, Decimal, Random, Struct, Array,\
+          Doctest, Pytest, Unittest,  PyUSB, HIDUSB, Threading,\
+          Multiprocessing, Embedd Python Ex, Keyboard, mako, Jinja2, Logging, Numpy, Matplotlib,\
+          Beautiful Soup, Unittest.<br><br>\
           <h2>Additional:</h2>\
-          Win, Linux(Ubuntu), heroku,  AWS, GIT, Github, Docker, Postman, PyCharm, Visual Studio Code, Slack,\
+          Win, Linux(Ubuntu), heroku,  AWS, GIT, Github, Tortoise SVN, PyCharm, Visual Studio Code, Slack, Codespaces beta, \
           Technical background. ',
   contactsMessage: ' <h2>PHONE:</h2><br>\
             <h3>+38-067-381-80-46  (Telegram, Viber)</h3><br>\
             <h2>E-MAIL:</h2><br>\
-            <h3>kaplunalex1985@gmail.com</h3><br>\
+            <h3>Kaplunalex1985@gmail.com</h3><br>\
             <h2>KYIV REGION</h2>',
   backgroundMessage: '<h2>Electrical and Electronics Engineer:</h2><br>\
           Analog electronics, digital electronics, consumer electronics, embedded systems\
